@@ -1,2 +1,2 @@
 # learn-tex
-Teaching myself LaTeX
+Teaching myself LaTeX based on [this tutorial](https://www.latex-tutorial.com/)
